@@ -1,0 +1,24 @@
+OUTLOOK	TEMPERATURE	HUMIDITY	WINDY	PLAY		
+Sunny	Hot	High	FALSE	No	0	0
+Sunny	Hot	High	TRUE	No	0	0
+Cloudy	Hot	High	FALSE	Yes	1	1
+Rainy	Mild	High	FALSE	Yes	1	0
+Rainy	Cool	Normal	FALSE	Yes	1	0
+Rainy	Cool	Normal	TRUE	Yes	1	0
+Cloudy	Cool	Normal	TRUE	Yes	1	1
+Sunny	Mild	High	FALSE	No	0	0
+Sunny	Cool	Normal	FALSE	Yes	1	0
+Rainy	Mild	Normal	FALSE	Yes	1	0
+Sunny	Mild	Normal	TRUE	Yes	1	0
+Cloudy	Mild	High	TRUE	Yes	1	1
+Cloudy	Hot	Normal	FALSE	Yes	1	1
+Rainy	Mild	High	TRUE	No	0	0
+					10	4
+
+Node	Variable	Value	Count	Yes	No	Entropy	Gain
+0			14	10	4	0.863120569	
+	OUTLOOK						
+		Sunny	5	2	3	0.970950594	0.970950594
+		Cloudy	4	4	0	0	0
+		Rainy	5	4	1	0.721928095	0.721928095
+	TEMPERATURE						
