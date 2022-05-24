@@ -14,4 +14,4 @@ Special thanks to Chrisselda Marito Dayana who helped me create the "Matlab Code
 1. Create a structured book while re-learning AI-ML-PSO and Data Mining after finish Hamzstlab, Lasthrim Projection and GFreya OS, while also create Mischkra, Nagiconomy, and the rest of 10 STEM Books
 2. Use Julia or low level language like C/C++
 3. Apply the algorithm to Physics SDK like Bullet, Project Chrono, Box2D
-4. Do all the above with Freya and Lasthrim
+4. Do all of the aboves with Freya and Lasthrim
